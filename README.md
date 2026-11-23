@@ -37,3 +37,4 @@ daily-study/
 | 2026-11-20 | [Docker 컨테이너 격리 원리와 멀티스테이지 빌드](daily-study/2026-11-20-docker-container-isolation-and-multistage-build.md) |
 | 2026-11-21 | [Spring Boot 테스트 전략 — 슬라이스·Testcontainers·@Transactional 함정](daily-study/2026-11-21-spring-boot-test-strategy-and-testcontainers.md) |
 | 2026-11-22 | [CPU 스케줄링 — FCFS·SJF·SRTF·RR·MLFQ와 평균 대기시간 계산, Linux CFS·EEVDF](daily-study/2026-11-22-cpu-scheduling-algorithms-and-linux-cfs.md) |
+| 2026-11-23 | [프롬프트 인젝션과 LLM 가드레일 — Lethal Trifecta·Agents Rule of Two·CaMeL과 백엔드 방어 설계](daily-study/2026-11-23-prompt-injection-and-llm-guardrails.md) |
