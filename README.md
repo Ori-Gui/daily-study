@@ -38,3 +38,4 @@ daily-study/
 | 2026-11-21 | [Spring Boot 테스트 전략 — 슬라이스·Testcontainers·@Transactional 함정](daily-study/2026-11-21-spring-boot-test-strategy-and-testcontainers.md) |
 | 2026-11-22 | [CPU 스케줄링 — FCFS·SJF·SRTF·RR·MLFQ와 평균 대기시간 계산, Linux CFS·EEVDF](daily-study/2026-11-22-cpu-scheduling-algorithms-and-linux-cfs.md) |
 | 2026-11-23 | [프롬프트 인젝션과 LLM 가드레일 — Lethal Trifecta·Agents Rule of Two·CaMeL과 백엔드 방어 설계](daily-study/2026-11-23-prompt-injection-and-llm-guardrails.md) |
+| 2026-11-24 | [TLS 1.3 핸드셰이크와 QUIC·HTTP/3 — 1-RTT 키 스케줄·0-RTT 재전송 위험부터 Nginx·CloudFront 구성까지](daily-study/2026-11-24-tls13-handshake-and-quic-http3.md) |
