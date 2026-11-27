@@ -41,3 +41,4 @@ daily-study/
 | 2026-11-24 | [TLS 1.3 핸드셰이크와 QUIC·HTTP/3 — 1-RTT 키 스케줄·0-RTT 재전송 위험부터 Nginx·CloudFront 구성까지](daily-study/2026-11-24-tls13-handshake-and-quic-http3.md) |
 | 2026-11-25 | [분산 트랜잭션 — 2PC·Saga·Transactional Outbox: 이중 쓰기 문제부터 보상 트랜잭션·발행 원자성·멱등 소비까지](daily-study/2026-11-25-distributed-transactions-saga-and-outbox-pattern.md) |
 | 2026-11-26 | [Kubernetes 무중단 배포와 프로브 — Deployment 롤링 업데이트·Service/Ingress 트래픽 경로부터 Readiness/Liveness/Startup Probe·preStop·Graceful Shutdown까지](daily-study/2026-11-26-kubernetes-zero-downtime-rollout-and-probes.md) |
+| 2026-11-27 | [가상 메모리와 페이지 교체 알고리즘 — OPT·FIFO·LRU·Clock 비교와 Belady의 이상현상·스래싱·워킹셋, Redis·InnoDB LRU 실무](daily-study/2026-11-27-virtual-memory-and-page-replacement-algorithms.md) |
