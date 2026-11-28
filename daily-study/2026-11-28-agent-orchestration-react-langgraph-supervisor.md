@@ -277,6 +277,8 @@ com.example.agent
 // orchestrator/AgentLoop.java
 // 의존성: org.springframework.ai:spring-ai-bom (버전은 팀 BOM에서 고정)
 //         spring-boot-starter-web, spring-boot-starter-data-jpa, micrometer
+// 주의: Spring AI의 ChatClient/Message/ToolCall API 명칭은 마이너 버전에 따라 바뀌므로
+//       위 코드는 구조 참고용으로 보고, 실제 컴파일은 사용 중인 BOM의 API로 맞춘다.
 package com.example.agent.orchestrator;
 
 import java.time.*;
