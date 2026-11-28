@@ -22,21 +22,22 @@ daily-study/
 
 | 날짜 | 분야 | 주제 |
 | --- | --- | --- |
+| 11.28 | AI·에이전트 | [AI 에이전트 오케스트레이션 — ReAct vs Plan-and-Execute, LangGraph 상태 그래프·Checkpointer·interrupt, Supervisor/Handoff 멀티 에이전트와 컨텍스트 격리·비용 설계](daily-study/2026-11-28-agent-orchestration-react-langgraph-supervisor.md) |
 | 11.27 | CS | [가상 메모리와 페이지 교체 알고리즘 — OPT·FIFO·LRU·Clock 비교와 Belady의 이상현상·스래싱·워킹셋, Redis·InnoDB LRU 실무](daily-study/2026-11-27-virtual-memory-and-page-replacement-algorithms.md) |
 | 11.26 | 인프라·DevOps | [Kubernetes 무중단 배포와 프로브 — Deployment 롤링 업데이트·Service/Ingress 트래픽 경로부터 Readiness/Liveness/Startup Probe·preStop·Graceful Shutdown까지](daily-study/2026-11-26-kubernetes-zero-downtime-rollout-and-probes.md) |
 | 11.25 | 백엔드·DB | [분산 트랜잭션 — 2PC·Saga·Transactional Outbox: 이중 쓰기 문제부터 보상 트랜잭션·발행 원자성·멱등 소비까지](daily-study/2026-11-25-distributed-transactions-saga-and-outbox-pattern.md) |
 | 11.24 | CS | [TLS 1.3 핸드셰이크와 QUIC·HTTP/3 — 1-RTT 키 스케줄·0-RTT 재전송 위험부터 Nginx·CloudFront 구성까지](daily-study/2026-11-24-tls13-handshake-and-quic-http3.md) |
 | 11.23 | AI·에이전트 | [프롬프트 인젝션과 LLM 가드레일 — Lethal Trifecta·Agents Rule of Two·CaMeL과 백엔드 방어 설계](daily-study/2026-11-23-prompt-injection-and-llm-guardrails.md) |
 | 11.22 | CS | [CPU 스케줄링 — FCFS·SJF·SRTF·RR·MLFQ와 평균 대기시간 계산, Linux CFS·EEVDF](daily-study/2026-11-22-cpu-scheduling-algorithms-and-linux-cfs.md) |
-| 11.21 | 백엔드·DB | [Spring Boot 테스트 전략 — 슬라이스·Testcontainers·@Transactional 함정](daily-study/2026-11-21-spring-boot-test-strategy-and-testcontainers.md) |
 
 ### 📅 월별 아카이브
 
 <details>
-<summary><b>2026-11 (24편)</b></summary>
+<summary><b>2026-11 (25편)</b></summary>
 
 | 날짜 | 분야 | 주제 |
 | --- | --- | --- |
+| 11.28 | AI·에이전트 | [AI 에이전트 오케스트레이션 — ReAct vs Plan-and-Execute, LangGraph 상태 그래프·Checkpointer·interrupt, Supervisor/Handoff 멀티 에이전트와 컨텍스트 격리·비용 설계](daily-study/2026-11-28-agent-orchestration-react-langgraph-supervisor.md) |
 | 11.27 | CS | [가상 메모리와 페이지 교체 알고리즘 — OPT·FIFO·LRU·Clock 비교와 Belady의 이상현상·스래싱·워킹셋, Redis·InnoDB LRU 실무](daily-study/2026-11-27-virtual-memory-and-page-replacement-algorithms.md) |
 | 11.26 | 인프라·DevOps | [Kubernetes 무중단 배포와 프로브 — Deployment 롤링 업데이트·Service/Ingress 트래픽 경로부터 Readiness/Liveness/Startup Probe·preStop·Graceful Shutdown까지](daily-study/2026-11-26-kubernetes-zero-downtime-rollout-and-probes.md) |
 | 11.25 | 백엔드·DB | [분산 트랜잭션 — 2PC·Saga·Transactional Outbox: 이중 쓰기 문제부터 보상 트랜잭션·발행 원자성·멱등 소비까지](daily-study/2026-11-25-distributed-transactions-saga-and-outbox-pattern.md) |
@@ -112,10 +113,11 @@ daily-study/
 </details>
 
 <details>
-<summary><b>AI·에이전트 (3편)</b></summary>
+<summary><b>AI·에이전트 (4편)</b></summary>
 
 | 날짜 | 주제 |
 | --- | --- |
+| 26.11.28 | [AI 에이전트 오케스트레이션 — ReAct vs Plan-and-Execute, LangGraph 상태 그래프·Checkpointer·interrupt, Supervisor/Handoff 멀티 에이전트와 컨텍스트 격리·비용 설계](daily-study/2026-11-28-agent-orchestration-react-langgraph-supervisor.md) |
 | 26.11.23 | [프롬프트 인젝션과 LLM 가드레일 — Lethal Trifecta·Agents Rule of Two·CaMeL과 백엔드 방어 설계](daily-study/2026-11-23-prompt-injection-and-llm-guardrails.md) |
 | 26.11.17 | [MCP(Model Context Protocol) 구조와 Spring AI 2.0 도구 서버](daily-study/2026-11-17-mcp-model-context-protocol-and-spring-ai-server.md) |
 | 26.11.14 | [RAG 아키텍처와 Hybrid Search·Reranking](daily-study/2026-11-14-rag-architecture-and-hybrid-search.md) |
